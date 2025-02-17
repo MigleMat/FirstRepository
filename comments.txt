@@ -1,0 +1,50 @@
+Your Challenge
+Set Up the HTML Structure:
+
+Begin with the proper <!DOCTYPE html> declaration.
+Create the <html>, <head>, and <body> sections.
+Ensure your document has a <meta charset="UTF-8"> tag and a <title>.
+Implement the Sections:
+
+Create a <header> element with class "header" containing an <h1> tag.
+Create a <nav> element with class "nav" that includes three <a> elements (each with a href="#" for now) for the navigation links.
+Create a <div> with class "container" that wraps two <div>s:
+One with class "content" containing a sample paragraph.
+One with class "sidebar" containing a sample paragraph.
+Create a <footer> element with class "footer" containing a paragraph with the footer text.
+Test Your Code:
+
+Save your HTML file and open it in a browser along with the provided CSS.
+Verify that the layout matches the design described.
+
+The Task
+Objective:
+Create a complete HTML document that, when combined with the CSS below, produces a simple webpage with the following sections:
+
+Header:
+
+Should have a blue background.
+Contains an <h1> element with the text "My Webpage".
+Use the CSS class header.
+Navigation Bar:
+
+Directly below the header.
+Contains three links with the texts "Home", "About", and "Contact".
+Use the CSS class nav for the container and style each <a> element accordingly.
+Main Content Area:
+
+This should be a container divided into two columns:
+Content Section:
+Occupies approximately 70% of the width.
+Use the CSS class content.
+You can add a paragraph with sample text.
+Sidebar:
+Occupies about 30% of the width.
+Use the CSS class sidebar.
+Add a paragraph with any sidebar notes or information.
+The parent container should have the CSS class container and use Flexbox for layout.
+Footer:
+
+At the bottom of the page.
+Contains a centered text "© 2025 My Webpage".
+Use the CSS class footer.
